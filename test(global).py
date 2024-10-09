@@ -7,3 +7,4 @@ def myfunc():
 myfunc()
 
 print("Python is " + x)
+print("git practice")
